@@ -1,6 +1,7 @@
 {
     "name": "New Test 2",
     "author": "mtv-dnu",
-    "version": 4
+    "version": 4,
+    "schema": "IDK"
 }
 
