@@ -2,6 +2,7 @@
     "name": "New Test 2",
     "author": "mtv-dnu",
     "version": 4,
-    "schema": "IDK"
+    "schema": "IDK",
+    "description": "This is a test"
 }
 
